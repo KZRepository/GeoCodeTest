@@ -4,7 +4,10 @@
   "description": "",
   "main": "filetest.js",
   "dependencies": {
-    "googlemaps": "^1.6.0"
+    "csvtojson": "^0.5.12",
+    "geocoder": "^0.2.2",
+    "googlemaps": "^1.6.0",
+    "request": "^2.72.0"
   },
   "devDependencies": {},
   "scripts": {
